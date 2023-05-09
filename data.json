@@ -1,0 +1,48 @@
+{
+    "music_artists": [
+      {
+        "id": "1",
+        "name": "The Beatles",
+        "songs": [
+          {
+            "id": "1",
+            "name": "Hey Jude",
+            "label": {
+              "id": "1",
+              "name": "Apple Records"
+            }
+          },
+          {
+            "id": "2",
+            "name": "Let It Be",
+            "label": {
+              "id": "1",
+              "name": "Apple Records"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Queen",
+        "songs": [
+          {
+            "id": "3",
+            "name": "Bohemian Rhapsody",
+            "label": {
+              "id": "2",
+              "name": "EMI"
+            }
+          },
+          {
+            "id": "4",
+            "name": "We Will Rock You",
+            "label": {
+              "id": "2",
+              "name": "EMI"
+            }
+          }
+        ]
+      }
+    ]
+  }

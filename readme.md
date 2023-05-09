@@ -1,0 +1,1 @@
+I was supposed to use the spotify web api in the project https://developer.spotify.com/documentation/web-api but didn't manage to get the correct data out of it. I also considered building a web scraping tool to replace it but that seemed like way too much effort for a temporary solution. So I just added a mock "database" data.json to show what the app was supposed to do.
